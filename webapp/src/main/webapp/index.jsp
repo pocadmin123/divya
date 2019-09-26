@@ -92,7 +92,7 @@ footer {
   
   <article>
     <h1 style="background-color:DodgerBlue;">Environment Creation </h1>
-	<h1 style="background-color:Orange;">Application Build & Deployment</h1>
+	<h1 style="background-color:Orange;">Application Build & Deployment </h1>
     		
   </article>
 </section>
