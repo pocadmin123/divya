@@ -78,7 +78,7 @@ footer {
 <p>Dhanamjaya</p>
 
 <header>
-  <h2>Automation Drive POC</h2>
+  <h2>Automation Drive POC </h2>
 </header>
 
 <section>
