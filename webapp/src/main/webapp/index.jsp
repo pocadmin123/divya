@@ -71,11 +71,9 @@ footer {
 </head>
 <body>
 
-<h2 style="background-color:Violet;">Azure Group B</h2>
+<h2 style="background-color:Violet;">Cloud & Edge</h2>
 <p>Divya</p>
-<p>Sreesha</p>
-<p>Rajesh</p>
-<p>Dhanamjaya</p>
+
 
 <header>
   <h2>Automation Drive POC </h2>
